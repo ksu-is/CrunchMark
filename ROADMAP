@@ -13,3 +13,10 @@ If template does not work, list issues x
 - [x] Add --export-tips for Lightroom + DaVinci Resolve settings
 - [x] Refactor: unify Instagram encoding flags into shared constant
 - [x] Remove module docstring to reduce file size
+
+
+
+
+### In Progress
+- [ ] Add --reels preset (auto-sets 9:16 crop + 30fps cap)
+- [ ] Write README.md with usage examples
