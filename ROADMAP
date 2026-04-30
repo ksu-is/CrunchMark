@@ -1,3 +1,15 @@
 Choose template and clone to team x
 Ensure that template works x
 If template does not work, list issues x
+
+
+
+
+### Completed
+- [x] Rename project to CrunchMark
+- [x] Fix label copy-paste bug in drawtext filter
+- [x] Add --instagram video compression simulation flag
+- [x] Add --photo Instagram JPEG compression simulation
+- [x] Add --export-tips for Lightroom + DaVinci Resolve settings
+- [x] Refactor: unify Instagram encoding flags into shared constant
+- [x] Remove module docstring to reduce file size
